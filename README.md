@@ -51,3 +51,22 @@ Durante as aulas foram abordados conceitos introdutórios sobre infraestrutura c
 
 - Amazon EBS
 - Amazon S3
+
+---
+
+## O Que Aprendi
+
+Durante o bootcamp, aprendi conceitos fundamentais sobre computação em nuvem e os principais serviços introdutórios da AWS.
+
+Entre os conhecimentos adquiridos, destacam-se:
+
+- Funcionamento básico da AWS
+- Estrutura global da AWS
+- Diferença entre regiões e zonas de disponibilidade
+- Boas práticas de segurança
+- Configuração de MFA
+- Gerenciamento de usuários e grupos com IAM
+- Aplicação de políticas e permissões
+- Controle e monitoramento de custos
+- Formas de acesso à AWS utilizando Console, CLI e CloudShell
+- Conceitos básicos sobre EC2, EBS e S3
