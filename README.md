@@ -88,3 +88,11 @@ Diagrama reproduzido durante as aulas para demonstrar a integração entre servi
 Exemplo de fluxo utilizando armazenamento em nuvem, processamento serverless e banco de dados.
 
 ![Diagrama S3](./images/diagrama-s3.png)
+
+---
+
+## Conclusão
+
+Este desafio ajudou a reforçar os conceitos básicos de computação em nuvem e apresentou alguns dos principais serviços da AWS.
+
+Além do conteúdo teórico, também foi possível visualizar exemplos práticos de integração entre serviços e entender melhor como funciona a estrutura da AWS.
