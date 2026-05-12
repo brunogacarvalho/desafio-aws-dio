@@ -70,3 +70,21 @@ Entre os conhecimentos adquiridos, destacam-se:
 - Controle e monitoramento de custos
 - Formas de acesso à AWS utilizando Console, CLI e CloudShell
 - Conceitos básicos sobre EC2, EBS e S3
+
+---
+
+## Diagramas Desenvolvidos
+
+### Arquitetura com EC2, EBS e RDS
+
+Diagrama reproduzido durante as aulas para demonstrar a integração entre serviços AWS.
+
+![Diagrama EC2](./images/diagrama-ec2.png)
+
+---
+
+### Arquitetura com S3, Lambda e DynamoDB
+
+Exemplo de fluxo utilizando armazenamento em nuvem, processamento serverless e banco de dados.
+
+![Diagrama S3](./images/diagrama-s3.png)
