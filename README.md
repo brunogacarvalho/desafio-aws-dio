@@ -73,6 +73,32 @@ Entre os conhecimentos adquiridos, destacam-se:
 
 ---
 
+---
+
+## Capturas de Tela
+
+### IAM Dashboard
+
+![IAM Dashboard](./images/iam-dashboard.png)
+
+---
+
+### Usuários IAM
+
+![IAM Users](./images/iam-users.png)
+
+---
+
+### Grupos IAM
+
+![IAM Groups](./images/iam-groups.png)
+
+---
+
+### AWS Console Home
+
+![AWS Console](./images/aws-console-home.png)
+
 ## Diagramas Desenvolvidos
 
 ### Arquitetura com EC2, EBS e RDS
