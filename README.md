@@ -122,3 +122,10 @@ Exemplo de fluxo utilizando armazenamento em nuvem, processamento serverless e b
 Este desafio ajudou a reforçar os conceitos básicos de computação em nuvem e apresentou alguns dos principais serviços da AWS.
 
 Além do conteúdo teórico, também foi possível visualizar exemplos práticos de integração entre serviços e entender melhor como funciona a estrutura da AWS.
+
+## Créditos
+
+Projeto desenvolvido durante o bootcamp [GFT](https://www.gft.com/br/pt) - Fundamentos de Cloud com AWS, realizado pela [DIO](https://dio.me).
+
+Conteúdo e laboratório apresentados por [Alexsandro Lechner](https://linkedin.com/in/alexsandrolechner)  
+GitHub: [@alexsandrolechner](https://github.com/alexsandrolechner)
